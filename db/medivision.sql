@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 22, 2018 at 08:14 PM
+-- Generation Time: Feb 22, 2018 at 08:42 PM
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.2
 
@@ -61,7 +61,15 @@ INSERT INTO `caches` (`name`, `data`, `expires`) VALUES
 ('FileCompiler__6e59660bb6c5401fc0066aa743b02ae2', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/templates\\/_main.php\",\"hash\":\"c06bf0d2570f6849ed5b6e24f78b1ecb\",\"size\":4149,\"time\":1519324514,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/_main.php\",\"hash\":\"c06bf0d2570f6849ed5b6e24f78b1ecb\",\"size\":4149,\"time\":1519324514}}', '2010-04-08 03:10:10'),
 ('FileCompiler__de8a43b9dd14e9fc8b8852e3f6ba51eb', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/templates\\/home.php\",\"hash\":\"65117d52d0e3fbb99209b1bad71b9855\",\"size\":851,\"time\":1519324514,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/home.php\",\"hash\":\"65117d52d0e3fbb99209b1bad71b9855\",\"size\":851,\"time\":1519324514}}', '2010-04-08 03:10:10'),
 ('FileCompiler__584f9edc95ba09750da90b70ab144fae', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/finished.php\",\"hash\":\"b389c166f04239b71b589ac6ba492436\",\"size\":320,\"time\":1519324514,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/finished.php\",\"hash\":\"b389c166f04239b71b589ac6ba492436\",\"size\":320,\"time\":1519324514}}', '2010-04-08 03:10:10'),
-('FileCompiler__9231020d6103eb9d88699d13cb6d9825', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/templates\\/basic-page.php\",\"hash\":\"bd2f290478915d2ed8a355dad51d3c7f\",\"size\":594,\"time\":1519324514,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/basic-page.php\",\"hash\":\"bd2f290478915d2ed8a355dad51d3c7f\",\"size\":594,\"time\":1519324514}}', '2010-04-08 03:10:10');
+('FileCompiler__9231020d6103eb9d88699d13cb6d9825', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/templates\\/basic-page.php\",\"hash\":\"bd2f290478915d2ed8a355dad51d3c7f\",\"size\":594,\"time\":1519324514,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/basic-page.php\",\"hash\":\"bd2f290478915d2ed8a355dad51d3c7f\",\"size\":594,\"time\":1519324514}}', '2010-04-08 03:10:10'),
+('FileCompiler__1125af56eed7c08c24c6522b3f28406f', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/init.php\",\"hash\":\"ddb509c7a0f45a28b2a842b0036699c2\",\"size\":599,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/init.php\",\"hash\":\"ddb509c7a0f45a28b2a842b0036699c2\",\"size\":599,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__46c266f151049b2457dad84d197be8ac', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/ready.php\",\"hash\":\"68890c45adc9546712273ee4b0872ae1\",\"size\":419,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/ready.php\",\"hash\":\"68890c45adc9546712273ee4b0872ae1\",\"size\":419,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__fbcf0220cd7c380146971f50f8ca6550', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/templates\\/_init.php\",\"hash\":\"d39f6fdaf415d4873a5954796401085e\",\"size\":1337,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/_init.php\",\"hash\":\"d39f6fdaf415d4873a5954796401085e\",\"size\":1337,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__f3042ef6ed7194f93d5b946f41ad131b', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/templates\\/_main.php\",\"hash\":\"c84c78b863ce9ad13ace550c117690f8\",\"size\":4262,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/_main.php\",\"hash\":\"c84c78b863ce9ad13ace550c117690f8\",\"size\":4262,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__1c1e9de715bc77dcdded4e08c5b32eb9', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/templates\\/home.php\",\"hash\":\"1d9add6dd89f90aa8cfd499877d891b6\",\"size\":876,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/home.php\",\"hash\":\"1d9add6dd89f90aa8cfd499877d891b6\",\"size\":876,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__8a73210c68d091fba61310d1b97aae5e', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/finished.php\",\"hash\":\"0c817f0cebcbeb56007942a99504ca7b\",\"size\":329,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/finished.php\",\"hash\":\"0c817f0cebcbeb56007942a99504ca7b\",\"size\":329,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__7b261fe0e645ff7247bb4cba5e8bccbd', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/templates\\/basic-page.php\",\"hash\":\"6aefcc15307cefd47ec4dea16eeab1cd\",\"size\":614,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/basic-page.php\",\"hash\":\"6aefcc15307cefd47ec4dea16eeab1cd\",\"size\":614,\"time\":1519327025}}', '2010-04-08 03:10:10'),
+('FileCompiler__06888e26e9b2c198679df121d9dc5065', '{\"source\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/templates\\/sitemap.php\",\"hash\":\"9b9de1b0be6c75668b879daad54d8749\",\"size\":286,\"time\":1519327025,\"ns\":\"ProcessWire\"},\"target\":{\"file\":\"E:\\/Prof\\/Projet_Abel\\/medivision\\/processwire-master\\/site\\/assets\\/cache\\/FileCompiler\\/site\\/templates\\/sitemap.php\",\"hash\":\"9b9de1b0be6c75668b879daad54d8749\",\"size\":286,\"time\":1519327025}}', '2010-04-08 03:10:10');
 
 -- --------------------------------------------------------
 
@@ -459,6 +467,47 @@ INSERT INTO `field_title` (`pages_id`, `data`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `item_type`
+--
+
+CREATE TABLE `item_type` (
+  `id_item_type` int(10) UNSIGNED NOT NULL COMMENT 'ID du type de produit',
+  `name` varchar(45) NOT NULL COMMENT 'Nom du type de produit',
+  `id_medic_type` int(10) UNSIGNED NOT NULL COMMENT 'Catégorie médicale associée'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sous-catégories de produits médicaux';
+
+--
+-- Dumping data for table `item_type`
+--
+
+INSERT INTO `item_type` (`id_item_type`, `name`, `id_medic_type`) VALUES
+(1, 'Ecographes', 1),
+(2, 'Microscopes', 1),
+(3, 'Colposcopes', 1);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `medic_type`
+--
+
+CREATE TABLE `medic_type` (
+  `id_medic_type` int(10) UNSIGNED NOT NULL COMMENT 'ID du type médical',
+  `name` varchar(45) NOT NULL COMMENT 'Nom du type médical'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Catégories de produits médicaux';
+
+--
+-- Dumping data for table `medic_type`
+--
+
+INSERT INTO `medic_type` (`id_medic_type`, `name`) VALUES
+(1, 'Matériel médical'),
+(3, 'Montures et accessoires'),
+(2, 'Verres médicaux');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `modules`
 --
 
@@ -739,6 +788,43 @@ CREATE TABLE `page_path_history` (
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `product`
+--
+
+CREATE TABLE `product` (
+  `id_product` int(10) UNSIGNED NOT NULL COMMENT 'Clé primaire',
+  `name` varchar(100) NOT NULL COMMENT 'Nom du produit',
+  `price` int(11) UNSIGNED NOT NULL COMMENT 'Prix du produit'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Produits médivision';
+
+--
+-- Dumping data for table `product`
+--
+
+INSERT INTO `product` (`id_product`, `name`, `price`) VALUES
+(1, 'PhilipsHD11 XE', 5000);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `product_types`
+--
+
+CREATE TABLE `product_types` (
+  `id_product` int(10) UNSIGNED NOT NULL COMMENT 'ID du produit associé',
+  `id_item_type` int(10) UNSIGNED NOT NULL COMMENT 'ID du type de produit associé'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Associations de produits aux types médicaux';
+
+--
+-- Dumping data for table `product_types`
+--
+
+INSERT INTO `product_types` (`id_product`, `id_item_type`) VALUES
+(1, 1);
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `session_login_throttle`
 --
 
@@ -779,10 +865,10 @@ INSERT INTO `templates` (`id`, `name`, `fieldgroups_id`, `flags`, `cache_time`, 
 (3, 'user', 3, 8, 0, '{\"useRoles\":1,\"noChildren\":1,\"parentTemplates\":[2],\"slashUrls\":1,\"pageClass\":\"User\",\"noGlobal\":1,\"noMove\":1,\"noTrash\":1,\"noSettings\":1,\"noChangeTemplate\":1,\"nameContentTab\":1}'),
 (4, 'role', 4, 8, 0, '{\"noChildren\":1,\"parentTemplates\":[2],\"slashUrls\":1,\"pageClass\":\"Role\",\"noGlobal\":1,\"noMove\":1,\"noTrash\":1,\"noSettings\":1,\"noChangeTemplate\":1,\"nameContentTab\":1}'),
 (5, 'permission', 5, 8, 0, '{\"noChildren\":1,\"parentTemplates\":[2],\"slashUrls\":1,\"guestSearchable\":1,\"pageClass\":\"Permission\",\"noGlobal\":1,\"noMove\":1,\"noTrash\":1,\"noSettings\":1,\"noChangeTemplate\":1,\"nameContentTab\":1}'),
-(1, 'home', 1, 0, 0, '{\"useRoles\":1,\"noParents\":1,\"slashUrls\":1,\"compile\":3,\"modified\":1519324514,\"ns\":\"ProcessWire\",\"roles\":[37]}'),
-(29, 'basic-page', 83, 0, 0, '{\"slashUrls\":1,\"compile\":3,\"modified\":1519324514,\"ns\":\"ProcessWire\"}'),
+(1, 'home', 1, 0, 0, '{\"useRoles\":1,\"noParents\":1,\"slashUrls\":1,\"compile\":3,\"modified\":1519327025,\"ns\":\"ProcessWire\",\"roles\":[37]}'),
+(29, 'basic-page', 83, 0, 0, '{\"slashUrls\":1,\"compile\":3,\"modified\":1519327025,\"ns\":\"ProcessWire\"}'),
 (26, 'search', 80, 0, 0, '{\"noChildren\":1,\"noParents\":1,\"allowPageNum\":1,\"slashUrls\":1,\"compile\":3,\"modified\":1519324514,\"ns\":\"ProcessWire\"}'),
-(34, 'sitemap', 88, 0, 0, '{\"noChildren\":1,\"noParents\":1,\"redirectLogin\":23,\"slashUrls\":1,\"compile\":3,\"modified\":1519324514,\"ns\":\"ProcessWire\"}');
+(34, 'sitemap', 88, 0, 0, '{\"noChildren\":1,\"noParents\":1,\"redirectLogin\":23,\"slashUrls\":1,\"compile\":3,\"modified\":1519327025,\"ns\":\"ProcessWire\"}');
 
 --
 -- Indexes for dumped tables
@@ -899,6 +985,21 @@ ALTER TABLE `field_title`
 ALTER TABLE `field_title` ADD FULLTEXT KEY `data` (`data`);
 
 --
+-- Indexes for table `item_type`
+--
+ALTER TABLE `item_type`
+  ADD PRIMARY KEY (`id_item_type`),
+  ADD UNIQUE KEY `UNIQUE` (`name`),
+  ADD KEY `isMedicType` (`id_medic_type`);
+
+--
+-- Indexes for table `medic_type`
+--
+ALTER TABLE `medic_type`
+  ADD PRIMARY KEY (`id_medic_type`),
+  ADD UNIQUE KEY `UNIQUE` (`name`);
+
+--
 -- Indexes for table `modules`
 --
 ALTER TABLE `modules`
@@ -946,6 +1047,20 @@ ALTER TABLE `page_path_history`
   ADD KEY `created` (`created`);
 
 --
+-- Indexes for table `product`
+--
+ALTER TABLE `product`
+  ADD PRIMARY KEY (`id_product`),
+  ADD UNIQUE KEY `nameUnique` (`name`);
+
+--
+-- Indexes for table `product_types`
+--
+ALTER TABLE `product_types`
+  ADD PRIMARY KEY (`id_product`,`id_item_type`),
+  ADD KEY `isType` (`id_item_type`);
+
+--
 -- Indexes for table `session_login_throttle`
 --
 ALTER TABLE `session_login_throttle`
@@ -976,6 +1091,18 @@ ALTER TABLE `fields`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
 
 --
+-- AUTO_INCREMENT for table `item_type`
+--
+ALTER TABLE `item_type`
+  MODIFY `id_item_type` int(10) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'ID du type de produit', AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT for table `medic_type`
+--
+ALTER TABLE `medic_type`
+  MODIFY `id_medic_type` int(10) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'ID du type médical', AUTO_INCREMENT=4;
+
+--
 -- AUTO_INCREMENT for table `modules`
 --
 ALTER TABLE `modules`
@@ -988,10 +1115,33 @@ ALTER TABLE `pages`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1014;
 
 --
+-- AUTO_INCREMENT for table `product`
+--
+ALTER TABLE `product`
+  MODIFY `id_product` int(10) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT 'Clé primaire', AUTO_INCREMENT=2;
+
+--
 -- AUTO_INCREMENT for table `templates`
 --
 ALTER TABLE `templates`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=43;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `item_type`
+--
+ALTER TABLE `item_type`
+  ADD CONSTRAINT `isMedicType` FOREIGN KEY (`id_medic_type`) REFERENCES `medic_type` (`id_medic_type`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+--
+-- Constraints for table `product_types`
+--
+ALTER TABLE `product_types`
+  ADD CONSTRAINT `isProduct` FOREIGN KEY (`id_product`) REFERENCES `product` (`id_product`) ON DELETE CASCADE ON UPDATE CASCADE,
+  ADD CONSTRAINT `isType` FOREIGN KEY (`id_item_type`) REFERENCES `item_type` (`id_item_type`) ON DELETE CASCADE ON UPDATE CASCADE;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
