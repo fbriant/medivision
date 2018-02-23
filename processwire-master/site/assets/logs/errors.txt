@@ -1,0 +1,4 @@
+2018-02-22 21:14:02	?	http://localhost/?/	Error: 	Exception: SQLSTATE[HY000] [1049] Unknown database 'medivision' (in C:\Users\Flo\Documents\Prof\Projet_Abel\medivision\processwire-master\wire\core\ProcessWire.php line 377)
+2018-02-22 21:14:59	?	http://localhost/?/	Error: 	Exception: SQLSTATE[HY000] [1049] Unknown database 'medivision' (in C:\Users\Flo\Documents\Prof\Projet_Abel\medivision\processwire-master\wire\core\ProcessWire.php line 377)
+2018-02-22 21:16:03	?	http://localhost/?/	Error: 	Exception: SQLSTATE[HY000] [1049] Unknown database 'medivision' (in C:\Users\Flo\Documents\Prof\Projet_Abel\medivision\processwire-master\wire\core\ProcessWire.php line 377)
+2018-02-22 21:16:52	?	http://localhost/?/	Error: 	Exception: SQLSTATE[HY000] [1049] Unknown database 'medivision' (in C:\Users\Flo\Documents\Prof\Projet_Abel\medivision\processwire-master\wire\core\ProcessWire.php line 377)
